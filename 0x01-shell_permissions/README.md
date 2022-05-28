@@ -1,1 +1,1 @@
-Task 1.My Name is Betty
+print current user name 
