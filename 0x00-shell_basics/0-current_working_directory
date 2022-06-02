@@ -1,2 +1,7 @@
-#!/bin/bash 
+<<<<<<< HEAD
+#!/bash/bin
 pwd
+=======
+#!/bin/bash 
+pwd -p
+>>>>>>> parent of 70bf7f3 (Init git)
