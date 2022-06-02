@@ -1,9 +1,2 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> f58f2f3d7690dd57cf6097a5e56e160be4333112
-#!/bash/bin
-pwd
-=======
-#!/bin/bash 
+#!/bin/bash
 pwd
